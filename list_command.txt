@@ -1,0 +1,15 @@
+1.ls -> melihat isi folder
+2.pwd -> melihat PATH folder
+3.cd -> mengakses folder
+4.mkdir -> membuat folder baru
+5.git config --list -> mengecek pengaturan git
+6.git status -> ngecek status git
+7.git log --graph -> melihat riwayat commit
+8.clear -> membersihkan tampilan terminal
+9.rm -r -> untuk menghapus folder 
+10.git add . / NAMA_FILE -> untuk memindahkan hasil perubahan ke stagging
+11.git commit -> untuk menyimpan ke repository
+12.git checkout hash/nama_branch -> memindahkan head ke commit/branch tertentu
+13.git branch -> melihat semua cabang
+14.git init -> menginisiasi folder jadi repo
+15.git reflog -> untuk melihat riwayat commit yang baru
