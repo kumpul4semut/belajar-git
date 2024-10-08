@@ -1,0 +1,2 @@
+1.git branch NAMA_BRANCH -> untuk membuat branch baru
+2.git checkout NAMA_BRANCH -> untuk pindah ke branch yg sudah dibuat
