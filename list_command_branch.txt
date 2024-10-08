@@ -1,0 +1,1 @@
+1.git branch NAMA_BRANCH -> untuk membuat branch baru
