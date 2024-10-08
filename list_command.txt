@@ -18,3 +18,4 @@
 18.git push NAMA_REMOTE BRANCH -> untuk upload ke github
 19.git pull NAMA_REMOTE BRANCH -> untuk download dari github ke local git
 20.
+b
